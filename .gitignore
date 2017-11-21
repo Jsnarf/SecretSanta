@@ -1,2 +1,15 @@
+#Scala Files
 *.class
 *.log
+
+#IntelliJ files
+.idea/*
+*.iml
+
+#SBT files
+project/project/*
+project/target/*
+target/*
+
+#Project Files
+src/main/resources/application_perlimpinpin.conf
