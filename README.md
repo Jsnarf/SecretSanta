@@ -109,4 +109,4 @@ Be careful ! If you don't set name_receiver in the message, the user won't know 
 [Log4J scala gitHub](https://github.com/apache/logging-log4j-scala)  
 
 
-Feel free to contribute, respecting the [contributing.md]()
+Feel free to contribute, respecting the [contributing.md](https://github.com/Jsnarf/SecretSanta/blob/master/CONTRIBUTING.md)
